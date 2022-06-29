@@ -1,5 +1,22 @@
 ### Hi there 👋, I'm Michael Brendo
 
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+![Unreal](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unrealengine)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp)&nbsp;
+![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-05122A?style=flat&logo=godotengine)&nbsp;
+<br><br>
+
+
 
 
 <!--
@@ -16,21 +33,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<br><br>
+## ⚙️ &nbsp;GitHub Analytics
 
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
-<br><br>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Michael-Brendo&show_icons=true&theme=vision-friendly-dark" alt="Michael-Brendo's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Brendo&layout=compact&theme=vision-friendly-dark" alt="Michael-Brendo's most languages"/>
+</p>
 
 -->
