@@ -16,7 +16,11 @@
 ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-05122A?style=flat&logo=godotengine)&nbsp;
 <br><br>
 
-
+<div> 
+ 
+![Snake animation](https://github.com/Michael-Brendo/Michael-Brendo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 <!--
